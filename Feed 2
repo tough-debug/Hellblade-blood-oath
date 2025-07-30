@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>HELLBLADE: BLOOD OATH Updates</title>
+    <link>https://github.com/tough-debug/hellblade-feed</link>
+    <description>Live dev updates for the PSP game HELLBLADE: BLOOD OATH</description>
+    <item>
+      <title>Initial Feed Created</title>
+      <description>RSS feed is active. Updates will be posted here.</description>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
